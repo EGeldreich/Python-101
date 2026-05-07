@@ -43,11 +43,11 @@ Chaque case cochée représente mon avancée actuelle.
 
 > _Durée estimée : 3 à 5 heures_
 
-- [ ] Installer Python, VS Code et Jupyter Notebook
-- [ ] Comprendre les variables et les types de données (`int`, `float`, `str`, `bool`)
-- [ ] Effectuer des opérations de base et comprendre les priorités
-- [ ] Utiliser l'affichage formaté (`print`, f-strings)
-- [ ] ✅ **Exercices module 1 complétés** — Premières données de ventes
+- [x] Installer Python, VS Code et Jupyter Notebook
+- [x] Comprendre les variables et les types de données (`int`, `float`, `str`, `bool`)
+- [x] Effectuer des opérations de base et comprendre les priorités
+- [x] Utiliser l'affichage formaté (`print`, f-strings)
+- [x] ✅ **Exercices module 1 complétés** — Premières données de ventes
 
 ---
 
