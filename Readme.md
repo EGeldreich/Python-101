@@ -55,12 +55,12 @@ Chaque case cochée représente mon avancée actuelle.
 
 > _Durée estimée : 4 à 6 heures_
 
-- [ ] Créer et manipuler des **listes** (séries de données)
-- [ ] Utiliser les **dictionnaires** (données structurées type fiche client)
-- [ ] Connaître les tuples et les ensembles
-- [ ] Écrire des conditions `if / elif / else`
-- [ ] Maîtriser les boucles `for` et `while`
-- [ ] ✅ **Exercices module 2 complétés** — Analyse d'un portefeuille clients
+- [x] Créer et manipuler des **listes** (séries de données)
+- [x] Utiliser les **dictionnaires** (données structurées type fiche client)
+- [x] Connaître les tuples et les ensembles
+- [x] Écrire des conditions `if / elif / else`
+- [x] Maîtriser les boucles `for` et `while`
+- [x] ✅ **Exercices module 2 complétés** — Analyse d'un portefeuille clients
 
 ---
 
